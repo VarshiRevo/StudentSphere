@@ -1,4 +1,4 @@
-# StudentPerformancePrediction-ML
+# StudentSphere
 This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file
 
 
@@ -10,3 +10,19 @@ And a few different classifiers and ML models have been used to get the most acc
 affect the marks of students.
 
 A few visual aids like graphs and confusion matrix have been created, to show the results.
+
+
+## Authors
+
+- [@VarshiRevo](https://github.com/VarshiRevo)
+
+## Support
+
+For support,
+Email :
+varshigaps04.ai@gmail.com
+
+OR
+
+Join our Slack channel:
+https://join.slack.com/t/team-revoshared_invitezt-23bhnca2e-VEbQiDF8c~1hUYVjsNa06Q
